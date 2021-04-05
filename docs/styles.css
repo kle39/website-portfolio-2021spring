@@ -1,0 +1,41 @@
+section {
+  text-align: center;
+  background-color: #D7C7F2;
+}
+footer {
+  text-align: center;
+}
+body {
+  background-color: #E7E7E7;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+
+}
+li {
+  display: inline;
+  margin-right: 50px;
+}
+h1, h2 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color:  #D7C7F2;
+}
+
+.button {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #5D6063;
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
