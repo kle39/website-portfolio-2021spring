@@ -15,6 +15,11 @@ header {
 footer {
   text-align: center;
 }
+
+.menu-container {
+  display: flex;
+  margin-right: 15em;
+}
 body {
   border-left: 2px solid #918E96;
   border-right: 2px solid #918E96;
