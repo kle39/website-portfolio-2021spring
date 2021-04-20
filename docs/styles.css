@@ -3,9 +3,11 @@
   src: url('Alice-Regular-webfont.woff') format('woff');
 }
 header {
+  width: 100%;
   font-family: 'Alice', sans-serif;
   text-align: center;
   background-color: #D7C7F2;
+
   padding-bottom: 10px;
   padding-top: 10px;
 
@@ -83,4 +85,10 @@ h4 {
 }
 p {
   font-family: serif;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
