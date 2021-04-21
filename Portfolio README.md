@@ -8,3 +8,6 @@ to emphasize my work and passions in this field thus far, along with my passion 
 learning more about me and my passions.
 
 Thank you!
+
+
+I am planning to have the rought draft completed by 4/22/21, and the final copy completed on or before Sunday, 4/25/21.
